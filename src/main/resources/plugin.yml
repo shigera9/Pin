@@ -1,0 +1,17 @@
+name: Pin
+version: '${project.version}'
+main: shigera9.pin.Pin
+api-version: 1.19
+
+commands:
+  pin:
+    aliases: [p]
+    description: 右手に矢を持って右クリックしたら、ピンが差せます。
+    permission: Pin.command.pin
+    permission-message: You do not have permission to perform this command.
+    usage:#
+
+permissions:
+  Pin.command.pin :
+    description: Allows you to perform commands in this plugin.
+    default: true
