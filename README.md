@@ -1,5 +1,5 @@
 # Pin
-Pinを差すプラグイン(Minecraft) / A Minecraft Plugin(Spigot) for putting on Pins
+ピンを差すプラグイン(Minecraft) / A Minecraft Plugin(Spigot) for putting on Pins
 
 ## 開発環境 / Development Environment
 ・Intellij IDEA
